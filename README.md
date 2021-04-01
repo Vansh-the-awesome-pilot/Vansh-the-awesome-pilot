@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vansh-the-awesome-pilot
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Freadom Bridge
+- 💞️ I’m looking to collaborate on Freedom Bridge
 - 📫 How to reach me +91 8558845215
 
 <!---
